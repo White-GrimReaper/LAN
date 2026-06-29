@@ -6,35 +6,35 @@ A small LAN connecting four PCs to a switch and configured with an IP address an
 
 <h2>Environments Used </h2>
 
-- <b>Cisco Packet Tracer</b> (21H2)
+- <b>Cisco Packet Tracer</b>
 
 <h2>Program:</h2>
 
 <p align="center">
 LAN Configuration: <br/>
-<img src="https://imgur.com/a/EXry4GZ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/EXry4GZ">
 <br />
 <br />
 PC1 Configuration:  <br/>
-<img src="https://imgur.com/a/g3BGm4J" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/g3BGm4J">
 <br />
 <br />
 PC1 Configuration: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nCIbXbg.png">
 <br />
 <br />
 PC2 Configuration:  <br/>
-<img src="https://imgur.com/a/WEEHAW0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/WEEHAW0">
 <br />
 <br />
 PC3 Configuration:  <br/>
-<img src="https://imgur.com/a/EUD20hq" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/EUD20hq">
 <br />
 <br />
 PC4 Configuration:  <br/>
-<img src="https://imgur.com/a/d1oszrF" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/d1oszrF">
 <br />
 <br />
 Verify Connectivity:  <br/>
-<img src="https://imgur.com/a/2YK4OHn" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/2YK4OHn">
 </p>
