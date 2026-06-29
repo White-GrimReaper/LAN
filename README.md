@@ -16,7 +16,7 @@ LAN Configuration: <br/>
 <br />
 <br />
 PC1 Configuration:  <br/>
-<img src="https://imgur.com/a/g3BGm4J" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IHcGUkg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 PC2 Configuration:  <br/>
