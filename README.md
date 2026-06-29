@@ -16,11 +16,11 @@ LAN Configuration: <br/>
 <br />
 <br />
 PC1 Configuration:  <br/>
-<img src="https://i.imgur.com/IHcGUkg.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sGsOmLQ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 PC2 Configuration:  <br/>
-<img src="https://i.imgur.com/sGsOmLQ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T96gRnJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 PC3 Configuration:  <br/>
