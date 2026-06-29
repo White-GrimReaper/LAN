@@ -12,25 +12,25 @@ A small LAN connecting four PCs to a switch and configured with an IP address an
 
 <p align="center">
 LAN Configuration: <br/>
-<img src="https://imgur.com/a/EXry4GZ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u67irFa.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 PC1 Configuration:  <br/>
-<img src="https://imgur.com/IHcGUkg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IHcGUkg.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 PC2 Configuration:  <br/>
-<img src="https://imgur.com/a/g3BGm4J" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sGsOmLQ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 PC3 Configuration:  <br/>
-<img src="https://imgur.com/a/EUD20hq" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SVnQfNU.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 PC4 Configuration:  <br/>
-<img src="https://imgur.com/a/d1oszrF" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xhi5rUv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Verify Connectivity:  <br/>
-<img src="https://imgur.com/a/2YK4OHn" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IHcGUkg.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
